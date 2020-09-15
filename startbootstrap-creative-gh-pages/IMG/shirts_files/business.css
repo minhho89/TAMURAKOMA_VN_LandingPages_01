@@ -1,0 +1,1633 @@
+.apparel_top_image {
+    margin-top: -53px;
+    height: 800px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: 10%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url('../img/business/apparel/apparel_fv.jpg');
+}
+.top_title_box{
+    padding: 13% 12% 0% 9%;
+    width: 20%;
+}
+
+.top_apparel_2.is-adj {
+  margin-top: 10%;
+  margin-bottom: 0;
+}
+
+.top_apparel_2.is-adj .top_apparel_leftside_img {
+width: 280px !important;
+height: 248px !important;
+}
+
+.top_apparel_3.is-adj {
+  margin-top: 12%;
+}
+
+.top_apparel_4.is-adj {
+  margin-top: 12%;
+}
+.top_apparel_4.is-adj .top_newbusiness_leftside_img.for-pc {
+  position: relative;
+  top: 210px;
+}
+
+@media screen and (max-width:960px){
+  .top_apparel_3.is-adj {
+    margin-top: 3%;
+  }
+  .top_apparel_3.is-adj .top_apparel_left_img2 {
+    margin-top: 0;
+  }
+}
+
+.lifestyle_top_image {
+    margin-top: -53px;
+    height: 800px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: 10%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url('../img/business/lifestyle/lifestyle_fv.jpg');
+}
+
+.material_top_image {
+    margin-top: -53px;
+    height: 730px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: 10%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url('../img/business/material/material_fv.jpg');
+}
+
+@media screen and (min-width:961px){
+  .material_top_image.material {
+    position: relative;
+    /* background-size: contain; */
+    /* background-position: center center; */
+  }
+  .material_top_image.material::after {
+    /* width: 100%; */
+    /* height: 100%; */
+    /* margin: 0 -1000%; */
+    /* padding: 0 1000%; */
+    /* position: absolute; */
+    /* top: 0; */
+    /* left: 0; */
+    /* z-index: -1; */
+    /* background: #dbe6f3; */
+    /* content: ''; */
+  }
+}
+
+.newbusiness_top_image {
+    height: 900px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: 10%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url('../img/business/newbusiness/new_business_fv.jpg');
+    margin-bottom: -10%;
+    margin-top: -5%;
+}
+
+.apparel_top_title, .lifestyle_top_title, .material_top_title, .newbusiness_top_title {
+    color: #280071;
+    font-size: 80px;
+    font-family: 'DIN Condensed';
+    font-style: bold;
+    letter-spacing: 5px;
+    margin: 0px;
+    /* padding: 150px 190px 0px; */
+}
+
+.newbusiness_top_title {
+    padding: 10% 10% 0 10%;
+}
+
+.top_apparel_2, .top_apparel_3, .top_apparel_4 {
+    margin-top: 25%;
+    display: flex;
+}
+
+.top_apparel_2 {
+    margin-bottom: -20%;
+}
+
+.top_apparel_4 {
+    margin-top: 20%;
+}
+
+.top_apparel_title {
+    color: #280071;
+    font-size: 6vw;
+    font-family: 'DIN Condensed';
+    font-style: bold;
+    letter-spacing: 1px;
+    margin: 0px;
+    padding: 10% 0px 0px 0px;
+}
+
+.top_apparel_subtitle_right{
+    color: #280071;
+}
+
+
+a {
+    text-decoration: none;
+    }
+
+.top_newbusiness_title {
+    color: #280071;
+    font-size: 7vw;
+    font-family: 'DIN Condensed';
+    font-style: bold;
+    letter-spacing: 1px;
+    margin: 0px -20% 0px 0;
+    padding: 0% 0px 0px 0px;
+    text-align: left;
+    margin-left: 40%;
+}
+
+.top_apparel_subtitle {
+    font-size: 2vw;
+    color: #280071;
+    font-family: 'DIN Condensed';
+    letter-spacing: 1px;
+}
+
+.top_apparel_hr {
+    margin-bottom: 50px;
+    color: #284890;
+    height: 1px;
+    background: #284890;
+    width: 100%;
+    margin-left: -13%;
+}
+
+.top_apparel_hr2 {
+    margin-bottom: 50px;
+    color: #284890;
+    height: 1px;
+    background: #284890;
+    width: 150%;
+    margin-left: -12%;
+}
+
+.top_apparel_sentences {
+    font-family: 'Hiragino Kaku Gothic ProN, W3';
+    color: #707070;
+    letter-spacing: 1px;
+    line-height: 1.8em;
+    font-size: 1vw;
+    width: 90%;
+}
+
+.top_newbusiness_sentences {
+    font-family: 'Hiragino Kaku Gothic ProN, W3';
+    color: #707070;
+    letter-spacing: 1px;
+    line-height: 1.8em;
+    text-align: left;
+    margin-right: -20%;
+    margin-left: 40%;
+    font-size: 1vw;
+    width: 79%;
+}
+
+.apparel_top_subtitle, .lifestyle_top_subtitle, .material_top_subtitle, .newbusiness_top_subtitle {
+    opacity: 0.5;
+    font-size: 1.3rem;
+    color: #280071;
+    font-family: 'DIN Condensed';
+    letter-spacing: 0.3rem;
+    margin: 0; 
+    line-height: 1.9rem;
+}
+
+.top_sentences, .top_sentences, .top_sentences {
+    font-family: 'Hiragino Kaku Gothic ProN, W3';
+    color: #707070;
+    letter-spacing: 3px;
+    line-height: 2em;
+    font-size: 17px;
+    padding: 2% 0% 12% 9%;
+    font-size: 0.9rem;
+}
+
+.newbusiness_top_sentences {
+    font-family: 'Hiragino Kaku Gothic ProN, W3';
+    color: #707070;
+    letter-spacing: 1px;
+    line-height: 1.8em;
+    font-size: 17px;
+    padding: 1% 10%;
+}
+
+.feature_title {
+    text-align: center;
+    font-size: 2.5rem;
+    letter-spacing: 3px;
+    color: #280071;
+    line-height: 0px;
+    font-family: din-2014, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.apparel_feature_subtitle, .lifestyle_feature_subtitle, .material_feature_subtitle, .newbusiness_feature_subtitle {
+    text-align: center;
+    font-size: 17px;
+    letter-spacing: 1px;
+    color: #280071;
+    opacity: 0.41;
+}
+
+.apparel_feature, .lifestyle_feature, .material_feature, .newbusiness_feature {
+    margin: 0% 8% 15%;
+}
+
+.top_apparel {
+    display: flex;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.feature_1, .feature_2 {
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.tamurakoma_brand_list {
+    border: 1px solid #7090CC;
+    padding: 2%;
+    margin: 30px;
+}
+
+.tamurakoma_brand_list_products {
+    margin: 0px auto 20px auto;
+    color: #707070;
+    font-family: 'Hiragino Kaku Gothic ProN';
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.brand_list {
+    font-family: 'Hiragino Kaku Gothic ProN';
+    line-height: 2em;
+}
+
+.feature_left_content {
+    width: 50%;
+}
+
+/* .feature_left_subtitle {
+    font-family: 'YuGothic, Medium';
+    color: #280071;
+    border-width: 0 0 1px;
+    border-bottom: 1px solid;
+    padding-bottom: 3px;
+    letter-spacing: 1px;
+    width: 20%;
+} */
+
+.lifestyle_feature_left_subtitle {
+    font-family: 'YuGothic, Medium';
+    color: #280071;
+    letter-spacing: 1px;
+    text-decoration: none;
+    border-bottom: 1px solid #280071;
+    padding-bottom: 6px;
+    display: inline-block;
+}
+
+
+
+.feature_left_title, .feature_right_title {
+    font-size: 1.8rem;
+    font-family: a-otf-ryumin-pr6n, serif;
+    font-weight: 300;
+    font-style: normal;
+    background: -webkit-linear-gradient(0deg, #0070BA, #06968e);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    line-height: 1.5em;
+    margin-right: 10%;
+    letter-spacing: 0.3rem;
+}
+
+.feature_right_img, .feature_left_img {
+    box-shadow: 15px 15px #E7ECF0;
+    width: 87%;
+    margin-top: 55px;
+}
+
+.feature_left_img {
+    margin-top: 6%;
+    box-shadow: 15px 15px #E7ECF0;
+    width: 170%;
+}
+
+.top_apparel_right {
+    text-align: right;
+}
+
+.top_apparel_message {
+    position: absolute;
+    width: 20%;
+}
+
+.top_apparel_message2 {
+    position: absolute;
+    width: 20%;
+    right: 20%;
+    margin-top: -3%;
+    padding-right: 5%;
+}
+
+.top_apparel_message3 {
+    position: absolute;
+    width: 25%;
+    margin: -5% 0;
+}
+
+.top_apparel_message4 {
+    position: absolute;
+    width: 25%;
+    right: 0;
+    margin-top: -5%;
+}
+
+.top_apparel_rightside_img {
+    max-width: 20%;
+    max-height: 50%;
+    position: absolute;
+    right: 1%;
+}
+
+
+.top_apparel_center2 {
+    width: 40%;
+    /* margin-left: 10%; */
+    margin-top: 15%;
+}
+
+.top_apparel_leftside_img {
+    width: 30%;
+    height: 30%;
+}
+
+.top_apparel_left_img {
+    margin-top: 40px;
+}
+
+.top_apparel_left_img img {
+    width: 100%;
+}
+
+.top_newbusiness_right_photo {
+    width: 40%;
+}
+
+.bug{
+    width: 100%;
+}
+
+.top_apparel_left_img2 {
+    width: 135%;
+}
+
+.top_apparel_right_img {
+
+    margin-top: 40px;
+}
+
+.top_lifestyle_right_img {
+    margin-top: 40px;
+    width: 130%;
+    margin-left: -34%;
+}
+
+.feature_left_sentence, .feature_right_sentence {
+    font-family: 'Hiragino Kaku Gothic ProN';
+    letter-spacing: 2px;
+    line-height: 2em;
+    margin-right: 11%;
+    color: #707070;
+    width: 85%;
+}
+
+.feature_left_products, .feature_right_products {
+    margin-top: 20px;
+    background: #F2F8FA;
+    width: 75%;
+    padding: 25px 25px 5px 25px;
+}
+
+.material_feature_left_products {
+    margin-top: 20px;
+    background: #F2F8FA;
+    width: 82%;
+    padding: 25px 25px 5px 25px;
+}
+
+.lifestyle_feature_left_products {
+    margin-top: 20px;
+    background: #F2F8FA;
+    width: 80%;
+    padding: 25px 25px 5px 25px;
+}
+
+.lifestyle_feature_left_products2 {
+    margin-top: 20px;
+    background: #F2F8FA;
+    width: 80%;
+    padding: 25px 25px 5px 25px;
+}
+
+.products_title {
+    color: #707070;
+    font-family: 'Hiragino Kaku Gothic ProN';
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.products_list li {
+    font-family: 'Hiragino Kaku Gothic ProN';
+    list-style-type: disc;
+    letter-spacing: 1px;
+    line-height: 2em;
+    color: #222222;
+    opacity: 0.5;
+}
+
+.feature_right_content {
+    margin-left: 24%;
+    width: 100%;
+}
+
+.top_material_right_content {
+    margin-left: 18%;
+}
+
+.top_lifestyle_right_photo {
+    width: 30%;
+    max-height: 80%;
+}
+
+.top_apparel_right_content {
+    width: 70%;
+    display: flex;
+}
+
+.top_newbusiness_leftside_img {
+    width: 25%;
+    margin-top: 10%;
+    margin-right: 70%;
+}
+
+
+
+.top_newbusiness_right_content {
+    width: 50%;
+    max-height: 40%;
+    margin-right: 10%;
+    margin-top: -20%;
+    text-align: right;
+    display: flex;
+}
+
+.top_apparel_hr4 {
+    margin-bottom: 50px;
+    color: #284890;
+    height: 1px;
+    background: #284890;
+    width: 78%;
+    margin-left: 40%;
+}
+
+/* .feature_right_subtitle {
+    font-family: 'YuGothic, Medium';
+    color: #280071;
+    border-width: 0 0 1px;
+    border-bottom: 1px solid;
+    padding-bottom: 3px;
+    letter-spacing: 1px;
+    width: 21%;
+} */
+
+.lifestyle_feature_right_subtitle {
+    font-family: 'YuGothic, Medium';
+    color: #280071;
+    border-width: 0 0 1px;
+    border-bottom: 1px solid;
+    padding-bottom: 3px;
+    letter-spacing: 1px;
+    width: 27%;
+}
+@media screen and (min-width:961px){
+  .lifestyle_feature_right_subtitle.nowrap {
+    white-space: nowrap;
+    width: 35%;
+  }
+}
+
+.material_feature_right_subtitle {
+    font-family: 'YuGothic, Medium';
+    color: #280071;
+    border-width: 0 0 1px;
+    border-bottom: 1px solid;
+    padding-bottom: 3px;
+    letter-spacing: 1px;
+    width: 25%;
+}
+
+.project_story {
+    margin-top: 30px;
+    background: #F6FAFB;
+}
+
+.apparel_project_title {
+    margin-bottom: 100px;
+}
+
+.project_left_img {
+    width: 100%;
+}
+
+.project_story_content {
+    display: flex;
+    margin: 10%;
+}
+
+.project_right {
+    margin-left: 40px;
+}
+@media screen and (min-width:961px){
+  .project_story.is-adj .project_story_content {
+    flex-wrap: nowrap;
+  }
+  .project_story.is-adj .project_story_content > * {
+    width: 50%;
+  }
+  .project_story.is-adj .project_story_content > .project_right .inner {
+    display: table;
+    margin: 0 auto;
+  }
+}
+
+.material_project_subtitle {
+    font-family: "DIN Condensed";
+    font-weight: bold;
+    font-size: 60px;
+    color: #FACFD0;
+    letter-spacing: 1.8px;
+    margin: 0px;
+}
+
+.material-pl-3 {
+    padding-left: 10%;
+}
+
+.material_project_subtitle {
+    font-family: "DIN Condensed";
+    font-weight: bold;
+    font-size: 60px;
+    color: #89C6Be;
+    letter-spacing: 1.8px;
+    margin: 0px;
+}
+
+.apparel_project_thema {
+    color: #707070;
+    font-family: a-otf-ud-reimin-pr6n, sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    letter-spacing: 1.2px;
+    line-height: 2.5rem;
+
+    
+}
+
+.project_name {
+    color: #707070;
+    font-family: 'Hiragino Kaku Gothic ProN';
+    letter-spacing: 1px;
+    line-height: 2em;
+}
+
+.read_project_btn {
+    margin-top: 45px;
+    width: 70%;
+}
+
+.apparel_project_title {
+    text-align: center;
+    font-size: 2.5rem;
+    letter-spacing: 3px;
+    color: #280071;
+    line-height: 0px;
+    font-family: din-2014, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.business_index{
+    margin-top:10%;
+}
+
+.business_index_title {
+    text-align: center;
+    font-size: 2.5rem;
+    letter-spacing: 3px;
+    color: #280071;
+    line-height: 0px;
+    font-family: din-2014, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.business_index_list {
+    margin: 4% 10% 10% 10%;
+    display: inline-flex;
+}
+
+.exhibition_index_list {
+    margin: 0%;
+    display: inline-flex;
+    text-decoration: none;
+}
+
+.business_index_1 {
+    background-image: url('../img/business_index/apparel.jpg');
+    background-repeat: no-repeat;
+    background-position-x: 20%;
+    background-size: 100%;
+    width: 25%;
+    height: 350px;
+    margin: 15px;
+    box-shadow: 0 0 3px gray;
+}
+
+
+.business_index_1_en {
+    background-image: url('../img/business_index/apparel.jpg');
+    background-repeat: no-repeat;
+    background-position-x: 20%;
+    background-size: 100%;
+    width: 25%;
+    height: 380px;
+    margin: 15px;
+    box-shadow: 0 0 3px gray;
+}
+
+.exhibition_index {
+    width: 25%;
+    min-height: 20%;
+    margin: 15px;
+    box-shadow: 0 0 3px gray;
+}
+
+.exhibition_content {
+    padding: 8%;
+    height: 120%;
+    overflow: hidden;
+}
+
+.exhibition_date {
+    color: #9AB2F0;
+    font-family: 'YuGothic';
+    font-weight: bold;
+}
+
+.exhibition_title {
+    color: #284890;
+    font-family: 'YuGothic';
+    font-weight: bold;
+    font-family: din-2014, sans-serif;
+    line-height: 1.5rem;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.exhibition_sentence {
+    font-family: 'YuGothic';
+    color: #6E6E6E;
+    line-height: 1.4rem;
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+}
+
+.exhibition_image img{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    max-height: 200px;
+    width: 100%;
+}
+
+.business_index_2 {
+    background-image: url('../img/business_index/lifestyle.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 25%;
+    height: 350px;
+    margin: 15px;
+    box-shadow: 0 0 3px gray;
+}
+
+.business_index_2_en {
+    background-image: url('../img/business_index/lifestyle.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 25%;
+    height: 380px;
+    margin: 15px;
+    box-shadow: 0 0 3px gray;
+}
+
+.business_index_3 {
+    background-image: url('../img/business_index/material.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 25%;
+    height: 350px;
+    margin: 15px;
+    box-shadow: 0 0 3px gray;
+}
+
+.business_index_3_en {
+    background-image: url('../img/business_index/material.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 25%;
+    height: 380px;
+    margin: 15px;
+    box-shadow: 0 0 3px gray;
+}
+
+
+.business_index_4 {
+    background-image: url('../img/business_index/new_business.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 25%;
+    height: 350px;
+    margin: 15px;
+    box-shadow: 0 0 3px gray;
+}
+
+.business_index_4_en {
+    background-image: url('../img/business_index/new_business.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 25%;
+    height: 380px;
+    margin: 15px;
+    box-shadow: 0 0 3px gray;
+}
+
+.business_index_text {
+    margin-top: 180px;
+    height: 200px;
+    opacity: 0.8;
+    background:rgb(255,255,255);
+}
+
+.business_index_header {
+    font-family: 'DIN Condensed';
+    font-weight: bold;
+    color: #280071;
+    font-size: 1.5vw;
+    padding: 0px 0px 0px 20px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    LETTER-SPACING: 0.1rem;
+    width: 60%;
+}
+
+.business_index_header_newbusiness {
+    font-family: 'DIN Condensed';
+    font-weight: bold;
+    color: #280071;
+    font-size: 30px;
+    padding: 0px 0px 0px 20px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    width: 60%;
+}
+
+.business_index_subheader {
+    font-size: 10px;
+    margin-top: 30px;
+    margin-left: 10px;
+    width: 40%;
+    font-family: 'DIN Condensed';
+    font-weight: bold;
+    color: #280071;
+}
+@media all and (-ms-high-contrast: none) {
+  *::-ms-backdrop, .business_index_subheader.is-adj span {
+    white-space: nowrap;
+    display: block;
+  }
+}
+
+.business_index_header_parts {
+    display: flex;
+    border-bottom: 1px solid rgba(98, 152, 240, 0.3);
+}
+
+.business_index_content {
+    font-size: 0.8vw;
+    padding: 9px;
+    letter-spacing: 0.5px;
+    line-height: 1.6em;
+    font-family: 'YuGothic';
+}
+
+.business_index_list a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.exhibition_index_list a {
+    text-decoration: none;
+    color: inherit;
+    overflow: hidden;
+}
+
+.business_main {
+    margin-bottom: 10%;
+}
+
+.business_main_image {
+    margin: 5% 0% 10% 10%;
+    width: 80%;
+}
+
+.business_sub_image {
+    margin: 0% 20% 0px 20%;
+    width: 60%;
+}
+
+.business_top_message {
+    margin-top: 40px;
+    text-align: center;
+    font-family: 'Hiragino Kaku Gothic ProN';
+    letter-spacing: 1px;
+    line-height: 2em;
+    color: #707070;
+}
+
+.business_number_1 {
+    font-family: 'DIN Condensed';
+    color: #280071;
+    font-size: 50px;
+    position: absolute;
+    margin-left: 8.5%;
+}
+
+.business_number_2{
+    font-family: 'DIN Condensed';
+    color: #280071;
+    font-size: 50px;
+    position: absolute;
+    margin-left: 28.5%;
+}
+
+.business_number_3 {
+    font-family: 'DIN Condensed';
+    color: #280071;
+    font-size: 50px;
+    position: absolute;
+    margin-left: 48%;
+}
+
+.business_number_4 {
+    font-family: 'DIN Condensed';
+    color: #280071;
+    font-size: 50px;
+    position: absolute;
+    margin-left: 68%;
+}
+
+.our_strong_points_title {
+    margin-bottom: 0px 0px 5% 0px;
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 3px;
+    color: #280071;
+    line-height: 0px;
+    font-family: din-2014, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.our_strong_points {
+    background: rgb(161, 205, 219, 0.09);
+}
+
+.our_strong_points_en {
+    background: rgb(161, 205, 219, 0.09);
+    height: 1100px;
+}
+
+.our_strong_points_content {
+    max-width: 80%;
+    margin: 200px auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    height: 100px;
+}
+
+.our_strong_points_details {
+    max-width: 80%;
+    margin: -120px auto 0px auto;
+    justify-content: center;
+    display: flex;
+    height: 400px;
+}
+
+.strong_point_img {
+    width: 250px;
+    padding: 50px;
+}
+
+.first {
+    text-align: center;
+    background-image: url('../img/business/all/point_1.png');
+    background-size: 100%;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 22%;
+    margin: 40px 40px 0px 40px;
+    max-width: 300px;
+    position: relative;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.second {
+    text-align: center;
+    background-image: url('../img/business/all/point_2.png');
+    background-size: 100%;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    height: 300px;
+    max-width: 300px;
+    width: 22%;
+    margin: 40px 40px 0px 40px;
+    position: relative;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.third {
+    text-align: center;
+    background-image: url('../img/business/all/point_3.png');
+    background-size: 100%;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 22%;
+    margin: 40px 40px 0px 40px;
+    max-width: 300px;
+    position: relative;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.img_text {
+    font-family: 'A-OTF Gothic BBB Pr6';
+    font-weight: bold;
+    line-height: 1.6rem;
+    letter-spacing: 0.15em;
+}
+
+.detail_1, .detail_2, .detail_3 {
+    color: #525252;
+    line-height: 1.7em;
+    letter-spacing: 1.5px;
+    margin: 40px 40px 0px 40px;
+    max-width: 300px;
+    text-align: left;
+    font-size: 15px;
+    width: 22%;
+}
+
+.newbusiness_top_subtitle {
+    margin: 0;
+    padding: 0px 10%;
+}
+
+.apparel_project_subtitle {
+    font-size: 4vw;
+    font-family: "DIN Condensed";
+    font-weight: bold;
+    color: #FACFD0;
+    letter-spacing: 1.8px;
+    margin: 0;
+}
+.top_apparel_center4{
+    width: 100%;
+    margin-top: auto;
+}
+
+@media screen and (min-width:961px){
+    .for-sp {
+        display: none;
+    }
+
+    .material_read_project_btn {
+        margin-top: 45px;
+        width: 40%;
+    }
+
+    .feature_left_photo {
+        width: 45%;
+    }
+
+    .business_index_1, .business_index_1_en,
+    .business_index_2, .business_index_2_en,
+    .business_index_3, .business_index_3_en,
+    .business_index_4, .business_index_4_en {
+        background-size: cover;
+        background-position-x: center;
+    }
+.top_apparel_center4.is-adj .top_newbusiness_title{
+font-size: 5vw;
+}
+}
+
+@media screen and (max-width:960px){
+
+    .for-pc {
+        display: none;
+    }
+
+
+    .our_strong_points_en {
+        background: rgb(161, 205, 219, 0.09);
+        height: 2000px;
+    }
+
+    .top_title_box {
+        padding: 29% 12% 0% 9%;
+        width: 40%;
+        text-align: center;
+    }
+
+    .business_index_header {
+        font-size: 5vw;
+        padding: 0;
+    }
+
+    .business_sub_image{
+        margin: 0 auto;
+    width: 81%;
+    display: block;
+    }
+
+    .top_newbusiness_title {
+        color: #280071;
+        font-size: 7vw;
+        font-family: 'DIN Condensed';
+        font-style: bold;
+        letter-spacing: 1px;
+        margin: 0px -20% 0px 0;
+        padding: 0% 0px 0px 0px;
+        text-align: center;
+        margin-left: 40%;
+    }
+
+    .business_top_message{
+        max-width: 300px;
+        margin-top: 40px;
+        font-family: 'Hiragino Kaku Gothic ProN';
+        letter-spacing: 1px;
+        line-height: 2em;
+        color: #707070;
+        display: block;
+        margin: 7% auto;
+        font-size: 0.9rem;
+    }
+
+    .apparel_feature_title, .lifestyle_feature_title, .material_feature_title, .newbusiness_feature_title {
+        text-align: center;
+        font-size: 2rem;
+        letter-spacing: 3px;
+        color: #280071;
+        line-height: 0px;
+        font-family: din-2014, sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-weight: bold;
+    }
+
+    .apparel_feature_subtitle, .lifestyle_feature_subtitle, .material_feature_subtitle, .newbusiness_feature_subtitle {
+        text-align: center;
+        font-size: 0.9rem;
+        letter-spacing: 1px;
+        color: #280071;
+        opacity: 0.41;
+        margin-top:6%;
+    }
+    
+
+    .material_read_project_btn {
+        margin-top: 45px;
+        width: 40%;
+    }
+
+    .business_index_list {
+        margin: 1px;
+    }
+
+    .business_index {
+        margin: 20% 0 20% 0;
+    }
+
+    .business_index_1, .business_index_2, .business_index_3, .business_index_4 {
+        width: 92%;
+        height: 350px;
+    }
+
+    .business_index_1_en, .business_index_2_en, .business_index_3_en, .business_index_4_en {
+        width: 92%;
+        height: 350px;
+    }
+
+    .business_index_1 {
+        grid-row: 1 / 2;
+        grid-column: 1 / 2
+    }
+
+    .business_number_1 {
+        width: 50%;
+        text-align: center;
+        margin: 0;
+    }
+
+    .business_number_2 {
+        width: 50%;
+        right: 0;
+        text-align: center;
+        margin: 0;
+    }
+
+    .business_number_3 {
+        text-align: center;
+        margin: -5% 0 0 0;
+        width: 50%;
+        left: 0;
+        position: absolute;
+    }
+
+    .business_number_4 {
+        text-align: center;
+        margin: -5% 0 0 0;
+        width: 50%;
+        right: 0;
+        position: absolute;
+    }
+
+    .business_index_2 {
+        grid-row: 1 / 2;
+        grid-column: 2 / 2
+    }
+
+    .business_index_3 {
+        grid-row: 2 / 2;
+        grid-column: 1 / 2
+    }
+
+    .business_index_4 {
+        grid-row: 2 / 2;
+        grid-column: 2 / 2
+    }
+
+    .business_index_list {
+        display: grid;
+    }
+    .business_index_list.is-adj {
+        margin: -20px 0 0 !important;
+        padding: 0 10px !important;
+        display: flex !important;
+        flex-wrap: wrap !important;
+    }
+    .business_index_list.is-adj > * {
+      width: 44% !important;
+      margin: 20px auto 0 !important;
+      padding: 0 !important;
+      box-sizing: border-box !important;
+    }
+    .business_index_text {
+        margin-top: 170px;
+        background: rgb(255,255,255, 0.9);
+    }
+
+    .business_index_subheader {
+        display: none;
+    }
+
+    .business_index_header_parts {
+        width: 100%;
+    }
+
+    .business_index_header_parts {
+        display: flex;
+        border-bottom: 1px solid rgba(98, 152, 240, 0.3);
+        margin: 0px 10px 0px 10px;
+    }
+
+    .business_index_list a {
+        overflow: hidden;
+    }
+
+    .business_index_content {
+        font-size: 10px;
+    }
+    
+    .tamurakoma_brand_list_products {
+        margin: 0px auto 20px auto;
+        color: #707070;
+        font-family: 'Hiragino Kaku Gothic ProN';
+        font-size: 18px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.5rem;
+    }
+
+    .business_index_1, .business_index_2, .business_index_3, .business_index_4 {
+        background-size: 100%;
+    }
+
+    .our_strong_points_title {
+        font-size: 24px;
+        margin: 5%;
+        font-family: din-2014, sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-weight: bold;
+    }
+
+    .our_strong_points_content {
+        display: block;
+        height: initial;
+        margin: 0;
+        max-width: initial;
+    }
+
+    .first, .second, .third {
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    .detail_1, .detail_2, .detail_3 {
+        font-size: 15px;
+        width: 100%;
+        margin: 0% auto 10%;
+        text-align: center;
+        line-height: 1.8rem;    
+    }
+
+    .our_strong_points_details {
+        height: 200px;
+    }
+
+    .feature_1, .feature_2 {
+        display: block;
+        margin-top: 15%;
+        margin-bottom:15%;
+    }
+
+    .feature_right_photo {
+        display: flex;
+    }
+
+    .feature_right_photo img {
+        display: flex;
+        max-width: 90%;
+        margin: 0 auto;
+        height: 10%;
+        box-shadow: 8px 8px #E7ECF0;
+    }
+
+    .feature_left_content {
+        width: 100%;
+    }
+
+    .feature_left_products {
+        max-width: 80%;
+        margin: 10% auto;
+    }
+
+    .lifestyle_feature_left_products {
+        max-width: 80%;
+        width: 80%;
+        margin: 10% auto;
+    }
+
+    .feature_left_subtitle, .lifestyle_feature_left_subtitle {
+        margin-top: 10%;
+        width: 100%;
+        margin-bottom: 5%;
+        text-align: center;
+        padding-bottom:6%;
+    }
+
+    .feature_left_img {
+        display: flex;
+        max-width: 90%;
+        margin: 30% auto 0;
+        height: 10%;
+        box-shadow: 8px 8px #E7ECF0;
+    }
+
+    .feature_right_subtitle {
+        margin-top: 10%;
+        width: 100%;
+    }
+
+    .feature_right_content {
+        margin: 0;
+    }
+
+    .project_story_content {
+        display: block;
+        margin: 0;
+        padding: 0 0 5%;
+    }
+
+    .apparel_project_title {
+        margin: 0 auto;
+        font-size: 5vw;
+    }
+
+    .project_story {
+        padding: 0;
+        margin-top: 30%;
+    }
+
+    .project_left_img {
+        margin: 0% auto;
+        display: flex;
+        max-width: 80%;
+    }
+
+    .lifestyle_feature_left_products2 {
+        width: 70%;
+    }
+
+    .feature_right_products {
+        width: 80%;
+    }
+
+    .apparel_project_subtitle {
+        text-align: center;
+        font-size: 10vw;
+        font-family: "DIN Condensed";
+        font-weight: bold;
+        color: #FACFD0;
+        letter-spacing: 1.8px;
+        margin: 0px;
+    }
+
+    .material_project_thema {
+        font-size: 8vw;
+    }
+
+    .project_right {
+        margin: 0;
+    }
+
+    .apparel_project_thema {
+        text-align: center;
+        margin: 5% auto;
+        font-family: a-otf-ryumin-pr6n, serif;
+        font-weight: bold;
+        font-size: 6vw;
+        width: 80%;
+        letter-spacing: 0.2rem;
+    }
+
+    .read_project_btn, .material_read_project_btn{
+        margin: 10% auto;
+        display: flex;
+        width: 60%;
+    }
+
+    .project_name {
+        text-align: center;
+        width: 80%;
+        margin: 5% auto;
+        font-size: 0.8rem;
+        line-height: 1.4rem;
+    }
+
+    .business_index_title {
+        font-size: 5vw;
+        margin-bottom: 9%;
+    }
+
+    .lifestyle_feature_right_subtitle {
+        width: 100%;
+    }
+
+    .material_project_subtitle {
+        text-align: center;
+        font-size: 10vw;
+    }
+
+    .lifestyle_feature_right_subtitle {
+        margin: 10% 0 0 0%;
+        text-align: center;
+        border-width: -7.8px;
+        padding-bottom: 6%;
+    }
+
+    .tamurakoma_brand_list {
+        padding: 10%;
+        margin:0;
+    }
+
+    .apparel_top_image, .lifestyle_top_image,
+    .material_top_image, .newbusiness_top_image
+    {
+        background-size: 211%;
+        background-position-x: 64%;
+        height: initial;
+        margin-top: -11%;
+    }
+
+    .apparel_top_title, .lifestyle_top_title,
+    .material_top_title, .newbusiness_top_title
+    {
+        font-size: 12vw;
+        padding: 30% 0% 0% 10%;
+    }
+
+    .apparel_top_subtitle, .lifestyle_top_subtitle,
+    .material_top_subtitle, .newbusiness_top_subtitle 
+    {
+        font-size: 4vw;
+        text-align: left;
+        width: 100%;
+        padding: 0 0 0 10%;
+        line-height: 1.8rem;
+        letter-spacing: 0.2rem;
+    }
+
+   .top_sentences, .lifestyle_top_sentences,
+    .material_top_sentences, .newbusiness_top_sentences
+    {
+        font-family: 'Hiragino Kaku Gothic ProN, W3';
+        color: #707070;
+        letter-spacing: 3px;
+        line-height: 2em;
+        font-size: 17px;
+        padding: 40% 0% 12% 9%;
+        font-size: 0.85rem;
+        width: 85%;
+        text-align: left;
+    }
+
+    .newbusiness_top_sentences{
+        margin-top: 10%;
+        margin-bottom: 23%;
+    }
+
+    .feature_title {
+        text-align: center;
+        font-size: 2.2rem;
+        letter-spacing: 3px;
+        color: #280071;
+        line-height: 0px;
+        font-family: din-2014, sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-weight: bold;
+    }
+
+
+    .feature_left_title, .feature_right_title {
+        font-size: 7vw;
+        font-family: a-otf-ryumin-pr6n, serif;
+        font-weight: 300;
+        font-style: normal;
+        background: -webkit-linear-gradient(0deg, #0070BA, #06968e);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        line-height: 1.5em;
+        text-align: center;
+        margin: 7% auto 5%;
+    }
+
+    .feature_left_sentence, .feature_right_sentence {
+        margin: 0;
+        padding-left: 8%;
+    }
+
+    .products_list {
+        font-size: 2vw;
+        padding-left: 7%;
+    }
+
+    .apparel_project_title {
+        margin: 0 auto 15% 0;
+    }
+    a {
+        text-decoration: none;
+    }
+
+    .feature_right_photo img {
+        display: flex;
+        max-width: 90%;
+        margin: 0 auto;
+        height: 10%;
+        box-shadow: 8px 8px #E7ECF0;
+    }
+
+}
+
+
+.box-mv__subtitle.is-adj {
+  font-size: 1.4vw;
+}
+.box-mv__subtitle.is-adj br {
+  display: none;
+}
+
+@media screen and (max-width:960px){
+  .box-mv__subtitle.is-adj .inner {
+    position: relative;
+    top: -4px;
+  }
+  .box-mv__subtitle.is-adj br {
+    display: block;
+  }
+}
+
+@media screen and (min-width:961px){
+  .feature_2 .feature_left_photo.is-adj {
+    width: 55%;
+  }
+  .feature_2 .feature_left_photo.is-adj + .feature_right_content {
+    margin-left: 26%;
+  }
+  .apparel_top_sentences.newbusiness_top_sentences.is-en {
+    width: 45%;
+  }
+  .apparel_top_sentences.newbusiness_top_sentences.is-en br {
+    display: none;
+  }
+  .lifestyle_top_sentences.newbusiness_top_sentences.is-en2 {
+    width: 35%;
+  }
+  .lifestyle_top_sentences.newbusiness_top_sentences.is-en2 br {
+    display: none;
+  }
+  .material_top_sentences.newbusiness_top_sentences.is-en3 {
+    width: 38%;
+  }
+  .material_top_sentences.newbusiness_top_sentences.is-en3 br {
+    display: none;
+  }
+  .newbusiness_top_sentences.is-en4 {
+    width: 38%;
+  }
+  .newbusiness_top_sentences.is-en4 br {
+    display: none;
+  }
+  .kaityo.is-ttl {
+    font-weight: bold;
+  }
+.newbusiness_top_title.is-adj {
+padding: 13% 12% 0% 9%;
+}
+.newbusiness_top_sentences.is-adj {
+padding: 2% 0% 11.5% 9%;
+}
+}
